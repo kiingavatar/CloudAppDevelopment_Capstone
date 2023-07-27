@@ -1,0 +1,7 @@
+requests
+Django
+Pillow
+gunicorn
+ibm-cloud-sdk-core
+ibm-watson
+ibmcloudant
